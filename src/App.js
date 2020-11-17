@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>AWS Elastic Beanstalk with Travis CI as CI and Docker as Image</p>
+        <p>AWS Elastic Beanstalk with Travis as CI and Github as Repo</p>
         <p>AredieWasHere@2020</p>
         <a
           className="App-link"
