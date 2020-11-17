@@ -7,8 +7,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>AWS Elastic Beanstalk with Travis CI as CI and Docker as Image Builder</p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">aredie was here</a>
+        <p>AWS Elastic Beanstalk with Travis CI as CI and Docker as Image</p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
